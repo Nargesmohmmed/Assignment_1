@@ -1,0 +1,21 @@
+section {
+  background-color: #1abc9c;
+  color: white !important;
+}
+
+h2 {
+  font-size: 40px;
+  font-weight: bold !important;
+}
+
+.left, .rigth {
+  width: 100px;
+  height: 5px;
+  background-color: white;
+  margin: 10px;
+}
+
+section .container {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}

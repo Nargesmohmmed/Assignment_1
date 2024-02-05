@@ -1,0 +1,18 @@
+nav {
+  background-color: #2a3b4c !important;
+}
+
+a{
+  color: white !important;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.active {
+  text-align: center;
+  background-color: #1abc9c;
+  width: 100px;
+  height: 40px;
+  border-radius: 6px;
+}
